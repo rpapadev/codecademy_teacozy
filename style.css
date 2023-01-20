@@ -39,6 +39,7 @@ header li {
     display: inline;
     text-decoration: underline;
     margin-right: 15px;
+    font-size: 17px;
 }
 
 .mission {
