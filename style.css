@@ -152,3 +152,35 @@ footer h6 {
     text-align: left;
     padding: 0 5px;
 }
+
+@media only screen and (max-width: 480px){
+    body {
+        width: 100%;
+    }
+
+    header {
+        max-width: 100%;
+    }
+
+    header li {
+        font-size: 12px;
+        display: block;
+        margin-right: 10px;
+    }
+
+    .info {
+        width: 100%;
+    }
+
+    .imagem {
+        width: 100%;
+    }
+
+    .locations {
+       display: none;
+    }
+
+    footer {
+        width: 100%;
+    }
+}
